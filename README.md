@@ -1,16 +1,40 @@
 # getamped-pve-drops
 
-| Pic | Drop |
-|--|--|
-| ![](http://ga.snapp.asia/xevents/event_june2019/36.jpg) | | asdasd |
+## Mission List
+- [Amped Factory (3)](#amped-factory)
+- [Amped Climber (5)](#amped-climber)
+- [Amped Running (3)](#amped-running)
+- [Amped Running EX (6)](#amped-running-ex)
+- [Destroso Challenge (5)](#destroso-challenge)
+- Amped Hunter (-)
+- [Omusa Factory (4)](#omusa-factory)
+- Recollection Gate (5)
+- [Undead Factory (4)](#undead-factory)
+- [Amped Jungle (4)](#amped-jungle)
+- Amped Labyrinth (4)
+- [Spelunker (5)](#amped-spelunker)
+- [Spelunker ESC (x)](#esc-spelunker)
+- Mission (Easy) (2)
+- Mission (Normal) (3)
+- Mission (Hard) (4)
+- [Amped Factory2 (3)](#amped-factory-2)
+- [Ninja Residence (4)](#ninja-residence)
+- [Death Tower (5)](#death-tower)
+- Amped Neo Shorin (3)
+- Amped Sholin (2)
+- [Maze Challenge (2)](#maze-challenge)
+- [Nightmare Temple (2)](#nightmare-temple)
+- [Amped Defender (4)](#defense-challenge)
+- [Quick Shot EX (x)](#quick-shot-ex)
+- []()
 
 
- Death Tower
+## Death Tower
  | Pic | Drop |
  |--|--|
 | ![](http://ga.snapp.asia/xevents/event_june2019/36.jpg) | Brick Stone x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/37.jpg) | Thunder Energy x1  |
-| ![](http://ga.snapp.asia/xevents/event_june2019/5.jpg) | Death Tower Card x1 (Thunder Atk+15% MP+10)  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Death Tower Card x1 (Thunder Atk+15% MP+10)  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/31.jpg) | Knight Of Strength Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/32.jpg) | Knight Of Technique Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/33.jpg) | Knight Of Speed Card x1  |
@@ -25,9 +49,14 @@
 | ![](http://ga.snapp.asia/xevents/event_june2019/42.jpg) | Deck Brush x2  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/G.jpg) | 500 G
 
+
+## Amped Factory 
+(ได้รับเมื่อเล่นผ่าน)
+
 http://ga.snapp.asia/xevents/event-jan2021.php
+
 ตั้งแต่ 13 มกราคม 2564 เป็นต้นไป
-Amped Factory (ได้รับเมื่อเล่นผ่าน)
+
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event-jan2021/15.jpg) | Pleonaste Chakra  |
@@ -46,7 +75,8 @@ Amped Factory (ได้รับเมื่อเล่นผ่าน)
 | ![](http://ga.snapp.asia/xevents/event-jan2021/13.jpg) | Robo dx x2  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021/14.jpg) | Robo dxb x2
 
-Amped Factory 2 (ได้รับเมื่อทำคะแนนได้อย่างน้อย 106,000 คะแนน)
+## Amped Factory 2 
+(ได้รับเมื่อทำคะแนนได้อย่างน้อย 106,000 คะแนน)
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event-jan2021/16.jpg) | Rotten Flower  |
@@ -64,9 +94,10 @@ Amped Factory 2 (ได้รับเมื่อทำคะแนนได้
 | ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Amped Factory 2 Card x1  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021/G.jpg) | 3,000 G
 
+## Amped Jungle
 http://ga.snapp.asia/xevents/event-jan2021-2.php
+
 ตั้งแต่ 27 มกราคม 2564 เป็นต้นไป
-Amped Jungle (Hard)
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/1.jpg) |Transforming Guardian  |
@@ -81,13 +112,13 @@ Amped Jungle (Hard)
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/13.jpg) | Strategy  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/14.jpg) | Attack_mask  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/15.jpg) | Guard_mask  |
-| ![](http://ga.snapp.asia/xevents/event-jan2021-2/16.jpg) | Colonel of Jungle Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Colonel of Jungle Card x1  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/17.jpg) | Golden Demolition Grab  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/3.jpg) | Golden Dynamite Cap  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/4.jpg) |Sniper Goggle  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/G.jpg) | 3,000 G
 
-Omusa Factory
+## Omusa Factory
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/18.jpg) | Cosmic Peace  |
@@ -106,11 +137,12 @@ Omusa Factory
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/31.jpg) | Knight Of Miracle x1  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/32.jpg) | Omusa Head x1  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/33.jpg) | Great MP Bottle x1  |
-| ![](http://ga.snapp.asia/xevents/event-jan2021-2/16.jpg) | Omusa Factory Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Omusa Factory Card x1  |
 | ![](http://ga.snapp.asia/xevents/event-jan2021-2/G.jpg) | 1,000 G
 
+## Amped Climber 
 http://ga.snapp.asia/xevents/ga-amped-climber-aug2021.php
-Amped Climber 
+
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/ga-amped-climber-aug2021/1.jpg) | Amped Climber Expert Emblem (ได้รับ G เพิ่มขึ้น 20% เมื่อเล่นโหมดต่อสู้ปกติ)  |
@@ -133,8 +165,9 @@ Amped Climber
 | ![](http://ga.snapp.asia/xevents/ga-amped-climber-aug2021/18.jpg) | Knight Of Miracle x1  |
 | ![](http://ga.snapp.asia/xevents/ga-amped-climber-aug2021/19.jpg) | Novice Of Miracle Card x1
 
+## Destroso Challenge
 http://ga.snapp.asia/xevents/ga-destroso-jungle-july-2021.php
-Destroso Challenge (Destroso Jungle)
+
 กล่องทั่วไป
 | Pic | Drop |
 |--|--|
@@ -186,9 +219,13 @@ Destroso Challenge (Destroso Jungle)
 | ![](http://ga.snapp.asia/xevents/ga-destroso-jungle-july-2021/G.jpg) | 300 G  |
 | ![](http://ga.snapp.asia/xevents/ga-destroso-jungle-july-2021/G.jpg) | 500 G
 
+
+## Amped Spelunker 
+(เงื่อนไข : ผ่านด่านด้วยคะแนนอย่างน้อย 170,000 คะแนน)
+
 http://ga.snapp.asia/xevents/ga-event-may-2021.php
+
 ระยะเวลากิจกรรม : ตั้งแต่ 12 พฤษภาคม 2564 เป็นต้นไป
-Amped Spelunker (เงื่อนไข : ผ่านด่านด้วยคะแนนอย่างน้อย 170,000 คะแนน)
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/1.jpg) | Broken Lost Techonology x1  |
@@ -199,7 +236,7 @@ Amped Spelunker (เงื่อนไข : ผ่านด่านด้วย
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/6.jpg) | Knight of Jump Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/7.jpg) | Knight of Defense Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/8.jpg) | Chaos Metamor (Slime)  |
-| ![](http://ga.snapp.asia/xevents/ga-event-may-2021/9.jpg) | Spelunker Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Spelunker Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/10.jpg) | Deck Brush x2  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/11.jpg) | Robo dx x3  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/12.jpg) | Robo dxb x3  |
@@ -207,14 +244,15 @@ Amped Spelunker (เงื่อนไข : ผ่านด่านด้วย
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/14.jpg) | Rare Lotto Ultimate Coupon x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/A.jpg) | 50 A
 
-ESC Spelunker (ได้รับจากกล่องสมบัติเมื่อเล่นผ่าน)
+## ESC Spelunker 
+(ได้รับจากกล่องสมบัติเมื่อเล่นผ่าน)
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/15.jpg) | Over Techno Batterry x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/16.jpg) | Red Thunder Tube x1-2  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/17.jpg) | Green Thunder Tube x1-2  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/18.jpg) | Blue Thunder Tube x1  |
-| ![](http://ga.snapp.asia/xevents/ga-event-may-2021/9.jpg) | Escape Ruin Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Escape Ruin Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/19.jpg) | Mega Beam Cannon x5  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/11.jpg) | Robo dx x3  |
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/12.jpg) | Robo dxb x3  |
@@ -225,8 +263,9 @@ ESC Spelunker (ได้รับจากกล่องสมบัติเ�
 | ![](http://ga.snapp.asia/xevents/ga-event-may-2021/G.jpg) | 5,000 G
 
 
+## Undead Factory
 http://ga.snapp.asia/xevents/ga-event-march-2021.php
-Undead Factory
+
 ตั้งแต่วันที่ 10 มีนาคม 2564 เป็นต้นไป
 | Pic | Drop |
 |--|--|
@@ -245,9 +284,11 @@ Undead Factory
 | ![](http://ga.snapp.asia/xevents/ga-event-march-2021/13.jpg) | Undead Factory Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-march-2021/G.jpg) | 1,000 G
 
+
+## Ninja Residence
 http://ga.snapp.asia/xevents/ga-event-april-2021.php
- Ninja Residence
-  |(เงื่อนไข : ต้องผ่านด่านด้วยคะแนนอย่างน้อย 190,000 คะแนน)
+
+(เงื่อนไข : ต้องผ่านด่านด้วยคะแนนอย่างน้อย 190,000 คะแนน)
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/ga-event-april-2021/1.jpg) | Shinobigatana Dawn & Dusk  |
@@ -260,21 +301,22 @@ http://ga.snapp.asia/xevents/ga-event-april-2021.php
 | ![](http://ga.snapp.asia/xevents/ga-event-april-2021/8.jpg) | Fire Spirit  |
 | ![](http://ga.snapp.asia/xevents/ga-event-april-2021/9.jpg) | Ninja Star (Big)  |
 | ![](http://ga.snapp.asia/xevents/ga-event-april-2021/10.jpg) | Ninja Star (Small)  |
-| ![](http://ga.snapp.asia/xevents/ga-event-april-2021/11.jpg) | Ninja Residence Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Ninja Residence Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-april-2021/12.jpg) | Knight Of Strength Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-april-2021/13.jpg) | Knight Of Technique Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-april-2021/14.jpg) | Knight Of Speed Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-april-2021/15.jpg) | Knight Of Jump Card x1  |
 | ![](http://ga.snapp.asia/xevents/ga-event-april-2021/16.jpg) | Knight Of Defend Card x1
 
+## Amped Factory 
+(ได้รับเมื่อเล่นผ่าน)
 http://ga.snapp.asia/xevents/event_aug2019.php
-Amped Factory (ได้รับเมื่อเล่นผ่าน)
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/events_aug2019/1.jpg) | Worn Gauntlet (right)  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/2.jpg) | Worn Gauntlet (left)  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/3.jpg) | Sharp Claw  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/4.jpg) | Amped Factory Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Amped Factory Card x1  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/G.jpg) | G Coin x1  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/5.jpg) | Knight Of Strength Card x1  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/6.jpg) | Knight Of Technique Card x1  |
@@ -287,7 +329,7 @@ Amped Factory (ได้รับเมื่อเล่นผ่าน)
 | ![](http://ga.snapp.asia/xevents/events_aug2019/13.jpg) | Robo dx x2  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/14.jpg) | Robo dxb x2
 
-Undead Factory
+## Undead Factory
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/events_aug2019/15.jpg) | Money Bag x1  |
@@ -300,11 +342,11 @@ Undead Factory
 | ![](http://ga.snapp.asia/xevents/events_aug2019/8.jpg) | Knight Of Jump Card x1  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/9.jpg) | Knight Of Defend Card x1  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/19.jpg) | Knight Of Miracle x1  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/4.jpg) | Undead Factory Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Undead Factory Card x1  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/20.jpg) | Blood of Apostle Ache  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/G.jpg) | 1,000 G
 
-Omusa Factory
+## Omusa Factory
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/events_aug2019/21.jpg) | Electron Coupon x5  |
@@ -323,19 +365,19 @@ Omusa Factory
 | ![](http://ga.snapp.asia/xevents/events_aug2019/19.jpg) | Knight Of Miracle x1  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/29.jpg) | Omusa Head x1  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/30.jpg) | Great MP Bottle x1  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/4.jpg) | Omusa Factory Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Omusa Factory Card x1  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/G.jpg) | 1,000 G
 
 http://ga.snapp.asia/xevents/event_oct2019.php
-Nightmare Temple
-Normal
+## Nightmare Temple
+### Normal
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event_oct2019/G.jpg) | 500 G  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/13.jpg) | Broken Bell x1  |
-| ![](http://ga.snapp.asia/xevents/event_oct2019/10.jpg) | Nightmare Temple Card x1  |
-| ![](http://ga.snapp.asia/xevents/event_oct2019/10.jpg) | Dark Fighter Card x1  |
-| ![](http://ga.snapp.asia/xevents/event_oct2019/10.jpg) | Depraved Monk Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Nightmare Temple Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Dark Fighter Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Depraved Monk Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/14.jpg) | Shoulder Guard of the Depraved x1  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/15.jpg) | Mantle of Corruption x1  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/16.jpg) | Novice Of Strengt Card x1  |
@@ -349,14 +391,14 @@ Normal
 | ![](http://ga.snapp.asia/xevents/event_oct2019/7.jpg) | Knight Of Jump Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/8.jpg) | Knight Of Defend Card x1
 
-็Hard
+### Hard
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event_oct2019/G.jpg) |800 G  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/13.jpg) | Broken Bell x1  |
-| ![](http://ga.snapp.asia/xevents/event_oct2019/10.jpg) | Nightmare Temple Card x1  |
-| ![](http://ga.snapp.asia/xevents/event_oct2019/10.jpg) | Depraved Monk x1  |
-| ![](http://ga.snapp.asia/xevents/event_oct2019/10.jpg) | Malice Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Nightmare Temple Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Depraved Monk x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Malice Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/14.jpg) | Shoulder Guard of the Depraved x1  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/15.jpg) | Mantle of Corruption x1  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/21.jpg) | Emblem of the Black Dragon x1  |
@@ -366,9 +408,13 @@ Normal
 | ![](http://ga.snapp.asia/xevents/event_oct2019/7.jpg) | Knight Of Jump Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_oct2019/9.jpg) | Knight Of Defend Card x1
 
+## Quick Shot EX 
 http://ga.snapp.asia/xevents/event_jan2020.php
+
 ระยะเวลากิจกรรม : 3 มกราคม - 6 กุมภาพันธ์ 2563
-Quick Shot EX (ได้รับเมื่อเล่นผ่าน)
+
+
+(ได้รับเมื่อเล่นผ่าน)
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event_jan2020/1.jpg) | โล่แกร่งดั่งตู้เย็น x1  |
@@ -388,7 +434,7 @@ Quick Shot EX (ได้รับเมื่อเล่นผ่าน)
 | ![](http://ga.snapp.asia/xevents/event_jan2020/A.jpg) | 7 A  |
 | ![](http://ga.snapp.asia/xevents/event_jan2020/A.jpg) | 7,777 A
 
-Amped Running
+## Amped Running
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event_jan2020/13.jpg) | Nobel Sport Shoes x1  |
@@ -401,12 +447,12 @@ Amped Running
 | ![](http://ga.snapp.asia/xevents/event_jan2020/20.jpg) | Omusa Dragon Bottle x1  |
 | ![](http://ga.snapp.asia/xevents/event_jan2020/G.jpg) |100 G
 
-Amped Running EX
+## Amped Running EX
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event_jan2020/21.jpg) | Sweet Candy x1  |
 | ![](http://ga.snapp.asia/xevents/event_jan2020/22.jpg) | Destroso Running Machine x1  |
-| ![](http://ga.snapp.asia/xevents/event_jan2020/23.jpg) | Amped Runner Card x1  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Amped Runner Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_jan2020/24.jpg) | Part of Gasha Tickets x1  |
 | ![](http://ga.snapp.asia/xevents/event_jan2020/25.jpg) | Soccer Shoes  |
 | ![](http://ga.snapp.asia/xevents/event_jan2020/26.jpg) | Gravity Boot  |
@@ -420,16 +466,19 @@ Amped Running EX
 | ![](http://ga.snapp.asia/xevents/event_jan2020/34.jpg) | Slash Attack Enchant Material x1  |
 | ![](http://ga.snapp.asia/xevents/event_jan2020/G.jpg) | 150 G
 
+
+## Defense Challenge
 http://ga.snapp.asia/xevents/event_aug2020.php
+
 ระยะเวลากิจกรรม : 6 สิงหาคม - 2 กันยายน 2563
-Defense Challenge
+
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event_june2019/1.jpg) | Holyless Mace x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/2.jpg) | Holy Spirit x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/3.jpg) | Wind Spirit x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/4.jpg) | Water Spirit x1  |
-| ![](http://ga.snapp.asia/xevents/event_june2019/5.jpg) | Nobel Defender Card x1 (SPD-1 DEF+2 All Resist Element +8%)  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Nobel Defender Card x1 (SPD-1 DEF+2 All Resist Element +8%)  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/6.jpg) | Angelic Sword  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/7.jpg) | Shariah  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/8.jpg) | Warlord Of Strength Card x1  |
@@ -446,7 +495,7 @@ Defense Challenge
 | ![](http://ga.snapp.asia/xevents/event_june2019/19.jpg) | Robo dx x2  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/20.jpg) | Robo dxb x2
 
-Maze Challenge
+## Maze Challenge
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event_june2019/21.jpg) | Soldier Card(Heart)  |
@@ -465,12 +514,12 @@ Maze Challenge
 | ![](http://ga.snapp.asia/xevents/event_june2019/34.jpg) | Knight Of Jump Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/35.jpg) | Knight Of Defend Card x1
 
-Death Tower
+## Death Tower
 | Pic | Drop |
 |--|--|
 | ![](http://ga.snapp.asia/xevents/event_june2019/36.jpg) | Brick Stone x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/37.jpg) | Thunder Energy x1  |
-| ![](http://ga.snapp.asia/xevents/event_june2019/5.jpg) | Death Tower Card x1 (Thunder Atk+15% MP+10)  |
+| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Death Tower Card x1 (Thunder Atk+15% MP+10)  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/31.jpg) | Knight Of Strength Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/32.jpg) | Knight Of Technique Card x1  |
 | ![](http://ga.snapp.asia/xevents/event_june2019/33.jpg) | Knight Of Speed Card x1  |

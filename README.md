@@ -20,13 +20,41 @@
 - [Amped Factory2 (3)](#amped-factory-2)
 - [Ninja Residence (4)](#ninja-residence)
 - [Death Tower (5)](#death-tower)
-- Amped Neo Shorin (3)
+- [Amped Neo Shorin (3)](#amped-neo-shorin)
 - Amped Sholin (2)
 - [Maze Challenge (2)](#maze-challenge)
 - [Nightmare Temple (2)](#nightmare-temple)
 - [Amped Defender (4)](#defense-challenge)
 - [Quick Shot EX (x)](#quick-shot-ex)
 - []()
+
+## Amped Neo Shorin
+http://ga.snapp.asia/xevents/chinese-new-year2021.php
+
+ระยะเวลากิจกรรม : ตั้งแต่ 10 กุมภาพันธ์ 2564 เป็นต้นไป
+| Pic | Drop |
+|--|--|
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/1.jpg) | Fatal Conflict  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/2.jpg) | Ru Yi Bang  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/3.jpg) | Pa Kue  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/4.jpg) | Fortune Bag  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/5.jpg) | Amped Talisman  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/6.jpg) | Hermit’s Beard  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/7.jpg) | Jeet Kune Do  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/8.jpg) | Arm Armor (Black)  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/9.jpg) | Arm Armor (Blue)  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/10.jpg) | Arm Armor (Green)  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/11.jpg) | Arm Armor (Red)  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/12.jpg) | Knight Of Strength Card x1  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/13.jpg) | Knight Of Technique Card x1  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/14.jpg) | Knight Of Speed Card x1  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/15.jpg) | Knight Of Jump Card x1  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/16.jpg) | Knight Of Defend Card x1  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/17.jpg) | Knight Of Destroso x1  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/18.jpg) | Knight Of Nobel x1  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/19.jpg) | Knight Of Amped x1  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/20.jpg) | Knight Of Miracle x1  |
+| ![](http://ga.snapp.asia/xevents/chinese-new-year2021/G.jpg) | 2,000 G  |
 
 
 ## Death Tower

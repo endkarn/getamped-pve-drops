@@ -1,7 +1,7 @@
 # getamped-pve-drops
 
-## Card Status
-[ข้อมูลการ์ดตั้งหมด](https://docs.google.com/document/d/1ELgYkr-0bIUkLKCowo179J_YyYbNxgyinZ15ZByP7I4/edit?fbclid=IwAR2MMP3_UpVFTOP1q-0r4Ng0-Xt6OunbhpKJVWP1TXk7ruujgT194DKuEfU#)
+- [ข้อมูลการ์ดตั้งหมด](https://docs.google.com/document/d/1ELgYkr-0bIUkLKCowo179J_YyYbNxgyinZ15ZByP7I4/edit?fbclid=IwAR2MMP3_UpVFTOP1q-0r4Ng0-Xt6OunbhpKJVWP1TXk7ruujgT194DKuEfU#)
+- [ระบบตกปลาและขุดแร่](http://ga.snapp.asia/gg_mode_desert_island.php)
 
 ## Mission List
 - [Amped Factory (3)](#amped-factory)
@@ -14,7 +14,7 @@
 - Recollection Gate (5)
 - [Undead Factory (4)](#undead-factory)
 - [Amped Jungle (4)](#amped-jungle)
-- Amped Labyrinth (4)
+- [Amped Labyrinth (4)](#amped-labyrinth)
 - [Spelunker (5)](#amped-spelunker)
 - [Spelunker ESC (x)](#esc-spelunker)
 - Mission (Easy) (2)
@@ -30,6 +30,57 @@
 - [Amped Defender (4)](#defense-challenge)
 - [Quick Shot EX (x)](#quick-shot-ex)
 - []()
+
+## Amped Labyrinth
+https://ga.snapp.asia/xevents/event_chny2019.php
+
+กล่องบอส 30
+| Pic | Drop |
+|--|--|
+|![](http://ga.snapp.asia/xevents/chny2019/41.jpg) | Dragon Master Fire  | 
+|![](http://ga.snapp.asia/xevents/chny2019/19.jpg) | Gold Raffesia  | 
+|![](http://ga.snapp.asia/xevents/chny2019/20.jpg) | Golden Gender Free  | 
+|![](http://ga.snapp.asia/xevents/chny2019/21.jpg) | Gold Crossbow  | 
+|![](http://ga.snapp.asia/xevents/chny2019/22.jpg) | Golden Ninja Star  | 
+|![](http://ga.snapp.asia/xevents/chny2019/23.jpg) | Golden Sake  | 
+|![](http://ga.snapp.asia/xevents/chny2019/24.jpg) | Penetrate  | 
+|![](http://ga.snapp.asia/xevents/chny2019/7.jpg) | Stinger of Labyrinth Card x1  | 
+|![](http://ga.snapp.asia/xevents/chny2019/25.jpg) | Fake Stinger of Labyrinth Card x1  | 
+|![](http://ga.snapp.asia/xevents/chny2019/26.jpg) | Gold Material x1  | 
+|![](http://ga.snapp.asia/xevents/chny2019/G.jpg) | 1,000 G | 
+
+กล่องบอส 40
+| Pic | Drop |
+|--|--|
+![](http://ga.snapp.asia/xevents/chny2019/42.jpg) | Golden Whirlwind Doubleblade  
+![](http://ga.snapp.asia/xevents/chny2019/41.jpg) | Dragon Master Fire  
+![](http://ga.snapp.asia/xevents/chny2019/27.jpg) | Golden Drill Hands  
+![](http://ga.snapp.asia/xevents/chny2019/28.jpg) | Golden Foot Burner  
+![](http://ga.snapp.asia/xevents/chny2019/29.jpg) | Golden Arm Blaster  
+![](http://ga.snapp.asia/xevents/chny2019/30.jpg) | Golden Arm Machine Gun  
+![](http://ga.snapp.asia/xevents/chny2019/31.jpg) | Golden Arm Bazooka  
+![](http://ga.snapp.asia/xevents/chny2019/32.jpg) | Capsule Skeleton Shield x5  
+![](http://ga.snapp.asia/xevents/chny2019/7.jpg) | Flame of Labyrinth Card x1  
+![](http://ga.snapp.asia/xevents/chny2019/25.jpg) | Fake Flame of Labyrinth Card x1  
+![](http://ga.snapp.asia/xevents/chny2019/26.jpg) | Gold Material x1  
+![](http://ga.snapp.asia/xevents/chny2019/G.jpg) | 3,000 G 
+
+กล่องบอส 50
+| Pic | Drop |
+|--|--|
+![](http://ga.snapp.asia/xevents/chny2019/42.jpg) | Golden Whirlwind Doubleblade  
+![](http://ga.snapp.asia/xevents/chny2019/41.jpg) | Dragon Master Fire  
+![](http://ga.snapp.asia/xevents/chny2019/33.jpg) | Golden Chakra  
+![](http://ga.snapp.asia/xevents/chny2019/34.jpg) | Golden Gandr Scale  
+![](http://ga.snapp.asia/xevents/chny2019/35.jpg) | Golden SpellBook  
+![](http://ga.snapp.asia/xevents/chny2019/36.jpg) | Golden Devil Wing  
+![](http://ga.snapp.asia/xevents/chny2019/37.jpg) | Golden Electro Cloak  
+![](http://ga.snapp.asia/xevents/chny2019/38.jpg) | Shoulder Bob – Gold -  
+![](http://ga.snapp.asia/xevents/chny2019/39.jpg) | Capsule Lucifer Ring x5  
+![](http://ga.snapp.asia/xevents/chny2019/7.jpg) | Hardy of Labyrinth Card x1  
+![](http://ga.snapp.asia/xevents/chny2019/25.jpg) | Fake Hardy of Labyrinth Card x1  
+![](http://ga.snapp.asia/xevents/chny2019/26.jpg) | Gold Material x1  
+![](http://ga.snapp.asia/xevents/chny2019/G.jpg) | 5,000 G
 
 ## Mission Hard
 https://www.getamped.in.th/challenge-mission1-sep2021/

@@ -1,6 +1,6 @@
 # getamped-pve-drops
 
-- [ข้อมูลการ์ดตั้งหมด](https://docs.google.com/document/d/1ELgYkr-0bIUkLKCowo179J_YyYbNxgyinZ15ZByP7I4/edit?fbclid=IwAR2MMP3_UpVFTOP1q-0r4Ng0-Xt6OunbhpKJVWP1TXk7ruujgT194DKuEfU#)
+- [ข้อมูลการ์ดทั้งหมด](https://docs.google.com/document/d/1ELgYkr-0bIUkLKCowo179J_YyYbNxgyinZ15ZByP7I4/edit?fbclid=IwAR2MMP3_UpVFTOP1q-0r4Ng0-Xt6OunbhpKJVWP1TXk7ruujgT194DKuEfU#)
 - [ระบบตกปลาและขุดแร่](http://ga.snapp.asia/gg_mode_desert_island.php)
 
 ## Mission List

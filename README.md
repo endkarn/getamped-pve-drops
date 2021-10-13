@@ -1,5 +1,8 @@
 # getamped-pve-drops
 
+## Card Status
+[ข้อมูลการ์ดตั้งหมด](https://docs.google.com/document/d/1ELgYkr-0bIUkLKCowo179J_YyYbNxgyinZ15ZByP7I4/edit?fbclid=IwAR2MMP3_UpVFTOP1q-0r4Ng0-Xt6OunbhpKJVWP1TXk7ruujgT194DKuEfU#)
+
 ## Mission List
 - [Amped Factory (3)](#amped-factory)
 - [Amped Climber (5)](#amped-climber)
@@ -381,23 +384,6 @@ http://ga.snapp.asia/xevents/event_aug2019.php
 | ![](http://ga.snapp.asia/xevents/events_aug2019/12.jpg) | MP Potion x5  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/13.jpg) | Robo dx x2  |
 | ![](http://ga.snapp.asia/xevents/events_aug2019/14.jpg) | Robo dxb x2
-
-## Undead Factory
-| Pic | Drop |
-|--|--|
-| ![](http://ga.snapp.asia/xevents/events_aug2019/15.jpg) | Money Bag x1  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/16.jpg) | Unnamed Skull x3  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/17.jpg) | Curse Doll x3  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/18.jpg) | Satan Wing x3  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/5.jpg) | Knight Of Strength Card x1  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/6.jpg) | Knight Of Technique Card x1  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/7.jpg) | Knight Of Speed Card x1  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/8.jpg) | Knight Of Jump Card x1  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/9.jpg) | Knight Of Defend Card x1  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/19.jpg) | Knight Of Miracle x1  |
-| ![](http://ga.snapp.asia/xevents/event-jan2021/4.jpg) | Undead Factory Card x1  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/20.jpg) | Blood of Apostle Ache  |
-| ![](http://ga.snapp.asia/xevents/events_aug2019/G.jpg) | 1,000 G
 
 ## Omusa Factory
 | Pic | Drop |

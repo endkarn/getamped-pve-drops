@@ -28,6 +28,31 @@
 - [Quick Shot EX (x)](#quick-shot-ex)
 - []()
 
+## Mission Hard
+https://www.getamped.in.th/challenge-mission1-sep2021/
+
+รายการของรางวัล (มีโอกาสได้รับเมื่อเล่นผ่านระดับ Hard เท่านั้น)
+
+| Pic | Drop |
+|--|--|
+| ![Mission 1 Master Emblem (ได้รับ G เพิ่มขึ้น 20% เมื่อเล่นโหมดต่อสู้ปกติ)](https://www.getamped.in.th/wp-content/uploads/2021/09/mission-1-master-emblem.jpg) |  Mission 1 Master Emblem (ได้รับ G เพิ่มขึ้น 20% เมื่อเล่นโหมดต่อสู้ปกติ)  |
+| ![Heat Outer Tetra](https://www.getamped.in.th/wp-content/uploads/2021/09/heat-outer-tetra.jpg) |  Heat Outer Tetra  |
+| ![OMSA Dragon Knapsack](https://www.getamped.in.th/wp-content/uploads/2021/08/omsa-dragon-knapsack.jpg) |  OMSA Dragon Knapsack  |
+| ![Sea Necklace](https://www.getamped.in.th/wp-content/uploads/2021/08/sea-necklace.jpg) |  Sea Necklace  |
+| ![Hero Wing](https://www.getamped.in.th/wp-content/uploads/2021/08/hero-wing.jpg) |  Hero Wing  |
+| ![Back Shield](https://www.getamped.in.th/wp-content/uploads/2021/08/back-shield.jpg) |  Back Shield  |
+| ![หางวานร](https://www.getamped.in.th/wp-content/uploads/2021/08/หางวานร.jpg) |  หางวานร  |
+| ![Mission 1 Hard Card x1 (STR+1 MP+15)](https://www.getamped.in.th/wp-content/uploads/2021/09/mission-1-hard-card.jpg) |  Mission 1 Hard Card x1 (STR+1 MP+15)  |
+| ![](https://www.getamped.in.th/wp-content/uploads/2021/08/warlord-of-miracle-card.jpg) |Warlord Of Strength Card x1  |
+| ![](https://www.getamped.in.th/wp-content/uploads/2021/08/warlord-of-miracle-card.jpg) |Warlord Of Technique Card x1  |
+| ![](https://www.getamped.in.th/wp-content/uploads/2021/08/warlord-of-miracle-card.jpg) |Warlord Of Speed Card x1  |
+| ![](https://www.getamped.in.th/wp-content/uploads/2021/08/warlord-of-miracle-card.jpg) |Warlord Of Jump Card x1  |
+| ![](https://www.getamped.in.th/wp-content/uploads/2021/08/warlord-of-miracle-card.jpg) |Warlord Of Defend Card x1  |
+| ![](https://www.getamped.in.th/wp-content/uploads/2021/08/warlord-of-miracle-card.jpg) |Warlord Of Destroso Card x1  |
+| ![](https://www.getamped.in.th/wp-content/uploads/2021/08/warlord-of-miracle-card.jpg) |Warlord Of Nobel Card x1  |
+| ![](https://www.getamped.in.th/wp-content/uploads/2021/08/warlord-of-miracle-card.jpg) |Warlord Of Amped Card x1  |
+| ![Warlord Of Miracle Card](https://www.getamped.in.th/wp-content/uploads/2021/08/warlord-of-miracle-card.jpg) |  Warlord Of Miracle Card x1  |
+
 ## Amped Neo Shorin
 http://ga.snapp.asia/xevents/chinese-new-year2021.php
 

@@ -1,5 +1,8 @@
 # getamped-pve-drops
 
+## Card Status
+[ข้อมูลการ์ดตั้งหมด](https://docs.google.com/document/d/1ELgYkr-0bIUkLKCowo179J_YyYbNxgyinZ15ZByP7I4/edit?fbclid=IwAR2MMP3_UpVFTOP1q-0r4Ng0-Xt6OunbhpKJVWP1TXk7ruujgT194DKuEfU#)
+
 ## Mission List
 - [Amped Factory (3)](#amped-factory)
 - [Amped Climber (5)](#amped-climber)
